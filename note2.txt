@@ -1,0 +1,3 @@
+This is note 2 containing information of bills.
+Please follow the given strcuture each time a new record is updated.
+
